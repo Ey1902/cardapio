@@ -1,2 +1,2 @@
 # curriculoHemato
-Curriculo para a area da Hematologia Clinica. 
+Currículo para a área da Hematologia Clínica. 
